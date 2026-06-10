@@ -1,8 +1,8 @@
 # Привет!👋 Меня зовут Вадим Куракин
 
-**Стек:** Python, SQL, Git
+**Стек:** Python, SQL, Bash, Git
 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,linux,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,bash,git,linux&theme=dark)](https://skillicons.dev)
 
 ## Сейчас изучаю
 - Алгоритмы и структуры данных
