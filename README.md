@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет!👋 Меня зовут Вадим Куракин
 
-<!--
-**vakurra/vakurra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Стек:** Python, SQL, Git
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,linux,git&theme=dark)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Сейчас изучаю
+- Алгоритмы и структуры данных
+- Backend-разработку
+- Проектирование баз данных
+
+## Контакты
+- Telegram: @vakurra_128
+- Email: vakurra@mail.ru
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vakurra&theme=holi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
