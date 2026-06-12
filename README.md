@@ -13,4 +13,4 @@
 - Telegram: @vakurra_128
 - Email: vakurra@mail.ru
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vakurra&theme=holi&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vakurra&theme=holi&layout=compact&v=2)
