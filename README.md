@@ -6,7 +6,7 @@
 
 **Стек:** Python, SQL, Bash, Git
 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,bash,git,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgresql,fastapi,bash,git,linux&theme=dark)](https://skillicons.dev)
 
 ## Сейчас изучаю
 - Алгоритмы и структуры данных
@@ -40,4 +40,4 @@
 - Telegram: @vakurra_128
 - Email: vakurra@mail.ru
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vakurra&theme=holi&layout=compact&v=2)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=vakurra&theme=holi&layout=compact&v=2)
