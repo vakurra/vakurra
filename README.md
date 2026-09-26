@@ -6,7 +6,7 @@
 
 **Стек:** Python, SQL, Bash, Git
 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgresql,fastapi,bash,git,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgresql,fastapi,bash,git,docker,linux&theme=dark)](https://skillicons.dev)
 
 ## Сейчас изучаю
 - Алгоритмы и структуры данных
